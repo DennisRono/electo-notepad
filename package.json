@@ -1,0 +1,23 @@
+{
+  "name": "electron-notepad",
+  "version": "1.0.0",
+  "description": "A notepad App",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron.JS",
+    "Notepad",
+    "Typescript",
+    "JS"
+  ],
+  "author": "maryaShiku",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.0.5"
+  },
+  "dependencies": {
+    "fs-extra": "^9.0.1"
+  }
+}
